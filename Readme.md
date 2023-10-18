@@ -4,6 +4,9 @@
 
 - helyi repo inicalizálása:
     > git init
+- felhasználónév és email cím ellenőrzése:
+    > git config user.name
+    > git config user.email
 - ellenőrzés:
     > git status
 - előkészítjük a commit-ra (a verzió létrehozására):
